@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\DynamicArray\bin\Debug\DynamicArray.exe.config
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\DynamicArray\bin\Debug\DynamicArray.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\DynamicArray\bin\Debug\DynamicArray.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\DynamicArray\obj\Debug\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\DynamicArray\obj\Debug\DynamicArray.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\DynamicArray\obj\Debug\DynamicArray.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\DynamicArray\obj\Debug\DynamicArray.exe.config
