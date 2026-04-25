@@ -11,32 +11,25 @@ namespace DynamicArray
         static void Main(string[] args)
         {
 
-            ArrayList arrayList = new ArrayList();
+            ArrayList<int> arrayList = new ArrayList<int>();
 
             arrayList.Add(1);
             arrayList.Add(2);
             arrayList.Add(3);
             arrayList.Add(4);
             arrayList.Add(10);
+
+            Console.WriteLine("Array items : ");
+
             arrayList.Display();
 
-            Console.WriteLine($"\nCapacity of this ArrayList its = {arrayList.GetCapacity}  ");
-
-            int Find = arrayList.Search(11);
-
-            if(Find != -1)
-            {
-
-                Console.WriteLine($"\nThe value of 10 Found at position :  {Find}");
-
-            }
-            else
-            {
-                Console.WriteLine("\nThe Number it dosent Found");
-            }
+           
 
 
-                Console.ReadLine();
+            Console.WriteLine($"\nthe value at index 1 is : {arrayList.GetAt(4)} ");
+
+
+            Console.ReadLine();
 
 
         }

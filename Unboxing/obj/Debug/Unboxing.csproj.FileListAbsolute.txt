@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Unboxing\bin\Debug\Unboxing.exe.config
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Unboxing\bin\Debug\Unboxing.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Unboxing\bin\Debug\Unboxing.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Unboxing\obj\Debug\Unboxing.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Unboxing\obj\Debug\Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Unboxing\obj\Debug\Unboxing.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Unboxing\obj\Debug\Unboxing.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Unboxing\obj\Debug\Unboxing.exe.config

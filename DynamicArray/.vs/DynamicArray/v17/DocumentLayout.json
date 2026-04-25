@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructurelvl2\\DynamicArray\\",
+  "WorkspaceRootPath": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructure\\DynamicArray\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BB35883-533A-4020-BD39-22B4FBE4AF57}|DynamicArray.csproj|c:\\users\\mkiss\\onedrive\\bureau\\datastructurelvl2\\dynamicarray\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BB35883-533A-4020-BD39-22B4FBE4AF57}|DynamicArray.csproj|c:\\users\\mkiss\\onedrive\\bureau\\datastructure\\dynamicarray\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB35883-533A-4020-BD39-22B4FBE4AF57}|DynamicArray.csproj|solutionrelative:arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BB35883-533A-4020-BD39-22B4FBE4AF57}|DynamicArray.csproj|c:\\users\\mkiss\\onedrive\\bureau\\datastructurelvl2\\dynamicarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BB35883-533A-4020-BD39-22B4FBE4AF57}|DynamicArray.csproj|C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructure\\DynamicArray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BB35883-533A-4020-BD39-22B4FBE4AF57}|DynamicArray.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ArrayList.cs",
-              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructurelvl2\\DynamicArray\\ArrayList.cs",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructure\\DynamicArray\\ArrayList.cs",
               "RelativeDocumentMoniker": "ArrayList.cs",
-              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructurelvl2\\DynamicArray\\ArrayList.cs",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructure\\DynamicArray\\ArrayList.cs",
               "RelativeToolTip": "ArrayList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T18:50:29.399Z",
               "EditorCaption": ""
@@ -57,11 +57,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructurelvl2\\DynamicArray\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructure\\DynamicArray\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructurelvl2\\DynamicArray\\Program.cs",
+              "ToolTip": "C:\\Users\\mkiss\\OneDrive\\Bureau\\DataStructure\\DynamicArray\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T18:49:45.923Z",
               "EditorCaption": ""
