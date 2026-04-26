@@ -10,8 +10,6 @@ namespace Matrix
     public class MatrixUtility
     {
 
-
-
         private int[,] _matrix;
         private int _rows;
         private int _cols;
@@ -170,6 +168,154 @@ namespace Matrix
 
         }
 
+
+        public string Search(int value)
+        {
+
+
+            for (int i = 0; i < _rows; i++)
+            {
+
+                for (int j = 0; j < _cols; j++)
+                {
+
+
+                    if (_matrix[i, j] == value)
+                    {
+
+                        return $"[{i},{j}]";
+
+                      
+
+                    }
+
+                    
+                }
+
+            }
+
+            return "The Value its not found"; 
+
+        }
+
+
+        public int MainDiagonalSum()
+        {
+
+
+            if (_rows != _cols)
+                throw new ArgumentException("Matrix must be square.");
+
+            int MainDiagonalRow = 0;
+
+            for (int i = 0; i < _rows; i++)
+            {
+                
+                MainDiagonalRow += _matrix[i, i];
+
+            }
+
+            return MainDiagonalRow;
+
+        }
+
+
+        public int SecondaryDiagonalSum()
+        {
+
+
+            if (_rows != _cols)
+                throw new ArgumentException("Matrix must be square.");
+
+            int SecondrayDiagonalSum = 0;
+
+            for (int i = 0; i < _rows; i++)
+            {
+
+
+                SecondrayDiagonalSum += _matrix[i, _cols - 1 - i];
+
+
+            }
+
+            return SecondrayDiagonalSum;
+
+        }
+
+        public bool IsSymmetric()
+        {
+
+
+            if(_rows != _cols) throw new ArgumentException("Rows and Columns must be square");
+
+
+            for (int i = 0; i < _rows; i++)
+            {
+
+                for (int j = 0; j < _cols; j++)
+                {
+
+                    if (_matrix[i,j] != _matrix[j, i])
+                        { return false; }
+                    
+                }
+
+            }
+
+            return true;
+
+        }
+
+        public int[,] Transpose()
+        {
+
+            int[,]Transpose = new int[_cols, _rows];
+
+            for (int i = 0; i < _rows; i++)
+            {
+
+                for (int j = 0; j < _cols; j++)
+                {
+                    Transpose[j,i] = _matrix[i,j];
+                }
+
+
+
+            }
+
+            return Transpose;
+
+        }
+
+
+        public bool IsIdentity()
+        {
+
+            if (_rows != _cols)
+                return false;
+
+
+
+            for (int i = 0; i < _rows; i++)
+            {
+
+                for (int j = 0; j < _cols; j++)
+                {
+
+                    if (i == j && _matrix[i, j] != 1)
+                        return false;
+
+                    if (i != j && _matrix[i, j] != 0)
+                        return false;
+                }
+
+            }
+
+            return true;
+
+           
+
+        }
 
 
     }
