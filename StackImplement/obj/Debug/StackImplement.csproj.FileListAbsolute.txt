@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\StackImplement\bin\Debug\StackImplement.exe.config
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\StackImplement\bin\Debug\StackImplement.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\StackImplement\bin\Debug\StackImplement.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\StackImplement\obj\Debug\StackImplement.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\StackImplement\obj\Debug\StackImplement.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\StackImplement\obj\Debug\StackImplement.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\StackImplement\obj\Debug\StackImplement.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\StackImplement\obj\Debug\StackImplement.exe.config
