@@ -1,8 +1,0 @@
-C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Boxing\bin\Debug\Boxing.exe.config
-C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Boxing\bin\Debug\Boxing.exe
-C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Boxing\bin\Debug\Boxing.pdb
-C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Boxing\obj\Debug\Boxing.csproj.AssemblyReference.cache
-C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Boxing\obj\Debug\Boxing.csproj.CoreCompileInputs.cache
-C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Boxing\obj\Debug\Boxing.exe
-C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Boxing\obj\Debug\Boxing.pdb
-C:\Users\mkiss\OneDrive\Bureau\DataStructurelvl2\Boxing\obj\Debug\Boxing.exe.config
