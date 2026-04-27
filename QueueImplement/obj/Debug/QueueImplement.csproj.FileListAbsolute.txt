@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\QueueImplement\bin\Debug\QueueImplement.exe.config
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\QueueImplement\bin\Debug\QueueImplement.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\QueueImplement\bin\Debug\QueueImplement.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\QueueImplement\obj\Debug\QueueImplement.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\QueueImplement\obj\Debug\QueueImplement.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\QueueImplement\obj\Debug\QueueImplement.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\QueueImplement\obj\Debug\QueueImplement.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\QueueImplement\obj\Debug\QueueImplement.exe.config
