@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\CircularQueue\bin\Debug\CircularQueue.exe.config
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\CircularQueue\obj\Debug\CircularQueue.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\CircularQueue\obj\Debug\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\CircularQueue\obj\Debug\CircularQueue.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\CircularQueue\obj\Debug\CircularQueue.exe.config
