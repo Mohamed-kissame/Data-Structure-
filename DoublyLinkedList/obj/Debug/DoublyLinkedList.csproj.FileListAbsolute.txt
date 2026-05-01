@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
+C:\Users\mkiss\OneDrive\Bureau\DataStructure\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe.config
