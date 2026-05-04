@@ -1,0 +1,8 @@
+C:\Users\mkiss\OneDrive\Bureau\Mini-Projects\TextEditorHistory\bin\Debug\TextEditorHistory.exe.config
+C:\Users\mkiss\OneDrive\Bureau\Mini-Projects\TextEditorHistory\bin\Debug\TextEditorHistory.exe
+C:\Users\mkiss\OneDrive\Bureau\Mini-Projects\TextEditorHistory\bin\Debug\TextEditorHistory.pdb
+C:\Users\mkiss\OneDrive\Bureau\Mini-Projects\TextEditorHistory\obj\Debug\TextEditorHistory.csproj.AssemblyReference.cache
+C:\Users\mkiss\OneDrive\Bureau\Mini-Projects\TextEditorHistory\obj\Debug\TextEditorHistory.csproj.CoreCompileInputs.cache
+C:\Users\mkiss\OneDrive\Bureau\Mini-Projects\TextEditorHistory\obj\Debug\TextEditorHistory.exe
+C:\Users\mkiss\OneDrive\Bureau\Mini-Projects\TextEditorHistory\obj\Debug\TextEditorHistory.pdb
+C:\Users\mkiss\OneDrive\Bureau\Mini-Projects\TextEditorHistory\obj\Debug\TextEditorHistory.exe.config
